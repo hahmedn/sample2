@@ -1,9 +1,4 @@
-package com.capgemini.project.MavenExample2;
 
-/**
- * Hello world!
- *
- */
 public class Hello2 
 {
     public static void main( String[] args )
